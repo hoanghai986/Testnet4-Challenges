@@ -1,15 +1,15 @@
-nodeid:<replace this text with the nodeid>
-bakerid1:<replace this text with the first bakerid>
-bakerid2:<replace this text with the second bakerid>
-accountaddress1:<replace this text with the first account address>
-accountaddress2:<replace this text with the second account address>
-blockhash_addbaker:<replace this text with the blockhash of the block with the first add baker transaction in it>
-blockhash_u1:<replace this text with the blockhash of the block with the update 1 transaction in it>
-blockhash_u2:<replace this text with the blockhash of the block with the update 2 transaction in it>
-blockhash_u3_addbaker:<replace this text with the blockhash of the block with the add baker transaction of update 3 in it>
-blockhash_u3_removebaker:<replace this text with the blockhash of the block with the remove baker transaction of update 3 in it>
-blockhash_u4_addbaker:<replace this text with the blockhash of the block with the add baker transaction of update 4 in it>
-blockhash_u4_removebaker:<replace this text with the blockhash of the block with the remove baker transaction of update 4 in it>
-blockhash_u5_addbaker:<replace this text with the blockhash of the block with the add baker transaction of update 5 in it>
-blockhash_u5_removebaker:<replace this text with the blockhash of the block with the remove baker transaction of update 5 in it>
-blockhash_u6:<replace this text with the blockhash of the block with the update 6 transaction in it>
+nodeid:e6c537a69d16ce50
+bakerid1:1748
+bakerid2:3607
+accountaddress1:4sWtZWJMkisMfk9wSb7oZrQo5swFbCx2c2gHggcS9ztwaxr1Fc
+accountaddress2:3MkijDg5rdYK8mv1DeAE36WRzWNtwzySD43re1iYJuz3CSqGPw
+blockhash_addbaker:d8e6978e4677ef90532c4ba0af432cde54dc2845f8e66ac7f9cfa2782558e673
+blockhash_u1:d12376aadeeb06e931a986dfb8f4cf3e6614baa16bd804c459a5f0ea3dcff461
+blockhash_u2:fea86f0ed3d26637ac75b67e1b466354034e742d7e3f288179414bce0b853e9b
+blockhash_u3_addbaker:58cb2b6e428f9a84dcbead0e181c69cb8c50dde303b484d0a2f9ae5ba90b2637
+blockhash_u3_removebaker:abebefe5d1f908731eda86f07f0e5094fe81913ddddac9a4331269ca44e73c67
+blockhash_u4_addbaker:5d96bf53e5f52c3eb1fac126ce6e7aa22dddf7ef10e0bda38464fe03fef75dde
+blockhash_u4_removebaker:bb953c471712293539f55d0a6e9db2a2cbc7d09a9e0992642866bb909cf8da0a
+blockhash_u5_addbaker:7ef5d9a7bbc827460923dfcd40535cc4e6ade6a38041441c87b8b3f29becc8ae
+blockhash_u5_removebaker:a9f335b29e0011aa87bcb96b437f4cb010e615350f3dee9391464d5cae137058
+blockhash_u6:134b8bd387f8024e9c9b334a4b8dc7d45f2886108b370087220efd5602dc9c84
